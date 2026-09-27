@@ -17,7 +17,7 @@ Länken som visas i terminalen öppnar appen. Koden kan kontrolleras med `npm ru
 
 På startsidan kan man söka efter recept och välja ett för att läsa mer. Man kan också lägga in ett eget recept. Formuläret säger till om något obligatoriskt fält saknas. Recept man lägger till finns kvar även när sidan stängs eller laddas om.
 
-Varje recept har en egen sida, och man kan gå mellan sidorna utan att hela sidan laddas om. Appen visar när recepten hämtas, och om något går fel kan man försöka igen.
+Varje recept har en egen sida och man kan gå mellan sidorna utan att hela sidan laddas om. Appen visar när recepten hämtas, och om något går fel kan man försöka igen.
 
 ## Mappar
 
